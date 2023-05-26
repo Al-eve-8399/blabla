@@ -8,7 +8,7 @@ const mongoose = require("mongoose")
 
 //Connecting database and server
 
-mongoose.connect('mongodb+srv://nevinthomas48:nevinthomas48@cluster0.elz3wm0.mongodb.net/?retryWrites=true&w=majority')
+mongoose.connect('mongodb+srv://wsteveabraham:wsteveabraham@cluster0.lgkwj8x.mongodb.net/?retryWrites=true&w=majority')
 .then(() => {
 
     console.log("DB Connected")
